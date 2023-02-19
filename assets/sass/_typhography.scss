@@ -1,0 +1,52 @@
+/* Template Name : alex-Startup Agency Template
+Author Name : Nadia Tamanna Nitu
+Description : Startup Agency Template
+Keywords :  bootstrap, startup
+Version : 1.0 */
+
+
+
+/* =============== Typhography =======  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Roboto&display=swap');
+body{
+    font-family: $body-font;
+    font-size: 16px;
+    line-height: 32px;
+    color: #6c6c6c;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: $heading-font;
+    line-height: 1;
+    margin-bottom: 0;
+    color: #102039;
+}
+p{
+    font-size: 16px;
+    line-height: 32px;
+    color: #6c6c6c;
+    font-weight: 700;
+
+}
+h1{
+    font-size: 90px;
+}
+h2{
+    font-size: 42px;
+    line-height: 52px;
+}
+h3{
+    font-size: 27px;
+    line-height: 37px;
+}
+h4{
+    font-size: 24px;
+    line-height: 34px;
+}
+h5{
+    font-size: 22px;
+    line-height: 32px;
+}
+h6{
+    font-size: 18px;
+    line-height: 20px;
+}
